@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  sales-server:
+    container_name: SALES_FRONT
+    build: "."
+    ports:
+      - "8080:80"
+
+networks:
+  default:
+    external:
+      name: customnet
