@@ -1,19 +1,9 @@
-# sales-front
+# Sales module front-end
 
-## Project setup
-```
-npm install
-```
+![Login screen](https://raw.githubusercontent.com/nathangngencissk/sales-front/main/login.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![Account screen](https://raw.githubusercontent.com/nathangngencissk/sales-front/main/account.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![Menu screen](https://raw.githubusercontent.com/nathangngencissk/sales-front/main/menu.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Cart screen](https://raw.githubusercontent.com/nathangngencissk/sales-front/main/cart.png)
